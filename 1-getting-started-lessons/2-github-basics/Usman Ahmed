@@ -1,0 +1,9 @@
+git branch [branch-name]
+git switch [branch name]
+git add .
+git commit -m "my changes"
+git switch main
+git pull
+git switch [branch_name]
+git merge main
+git push --set-upstream origin [branch-name]
